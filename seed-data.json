@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    { "id": "1", "name": "Individual Cash Account", "institution": "Individual - 3.30% APY", "type": "cash", "balance": 10750.17, "apy": 3.3 },
+    { "id": "2", "name": "Emergency Fund", "institution": "Individual - 3.30% APY", "type": "cash", "balance": 0, "apy": 3.3 },
+    { "id": "3", "name": "Checking - 9292", "institution": "Bank of America", "type": "cash", "balance": 811.01 },
+    { "id": "4", "name": "Roth IRA", "institution": "Roth IRA", "type": "investment", "balance": 19876.17 },
+    { "id": "5", "name": "Credit Card - 4750", "institution": "Bank of America", "type": "liability", "balance": 0 },
+    { "id": "6", "name": "Credit Card - 6076", "institution": "Discover", "type": "liability", "balance": 0 },
+    { "id": "7", "name": "Credit Card - 6427", "institution": "Chase", "type": "liability", "balance": 0 },
+    { "id": "8", "name": "Credit Card - 7054", "institution": "Capital One", "type": "liability", "balance": 0 }
+  ],
+  "expenses": [
+    { "id": "e1", "description": "Culver's", "amount": 30.10, "category": "eating_out", "date": "2026-07-01" },
+    { "id": "e2", "description": "DoorDash - Strip's Chicken", "amount": 22.50, "category": "eating_out", "date": "2026-07-02" },
+    { "id": "e3", "description": "DoorDash - Tasty African", "amount": 67.46, "category": "eating_out", "date": "2026-07-04" },
+    { "id": "e4", "description": "Andy's Frozen Custard", "amount": 15.96, "category": "eating_out", "date": "2026-07-06" },
+    { "id": "e5", "description": "Five Guys Burgers & Fries", "amount": 41.44, "category": "eating_out", "date": "2026-07-08" },
+    { "id": "e6", "description": "Strip's Chicken", "amount": 28.02, "category": "eating_out", "date": "2026-07-10" },
+    { "id": "e7", "description": "Walmart", "amount": 42.99, "category": "groceries", "date": "2026-07-03" },
+    { "id": "e8", "description": "Amazon - Appliances", "amount": 131.32, "category": "groceries", "date": "2026-07-05" },
+    { "id": "e9", "description": "Murphy Express", "amount": 23.44, "category": "gas", "date": "2026-07-07" },
+    { "id": "e10", "description": "Anthropic Claude Sub", "amount": 20.00, "category": "subscriptions", "date": "2026-07-01" },
+    { "id": "e11", "description": "Hoyoverse Singapore", "amount": 4.99, "category": "subscriptions", "date": "2026-07-01" },
+    { "id": "e12", "description": "Apple.com/Bill", "amount": 4.99, "category": "subscriptions", "date": "2026-07-01" }
+  ],
+  "dailyBudget": 50,
+  "savingsXP": 0
+}
